@@ -1,0 +1,155 @@
+body{
+    margin: 0;
+    background-color: #898AA6;
+    padding-bottom: 50px;
+}
+
+p{
+    margin: 0;
+    margin-bottom: 12px;
+    font-family: arial;
+}
+
+input{
+    height: 25px;
+    margin-bottom: 12px;
+    margin-left: 50px;
+    width: 440px;
+    border-radius: 12px;
+    border-style: none;
+    padding-left: 12px;
+}
+
+.container{
+    margin-left: 330px;
+    margin-right: 330px;
+    padding-top: 25px;
+    padding-bottom: 25px;
+    padding-left: 20px;
+    padding-right: 20px;
+    background-color: #C9BBCF;
+    border-radius: 12px;
+}
+
+.input{
+    display: flex;
+    text-align: center;
+    vertical-align: middle;
+}
+
+h2{
+    text-align: center;
+    font-family: Arial;
+}
+
+#name{
+    margin-left: 150px;
+    cursor: pointer;
+}
+
+#kota{
+    margin-left: 180px;
+    cursor: pointer;
+}
+
+#alamat{
+    margin-left: 267px;
+    cursor: pointer;
+}
+
+#kode-pos{
+    margin-left: 248px;
+    cursor: pointer;
+}
+
+#provinsi{
+    margin-left: 260px;
+    cursor: pointer;
+}
+
+#nomor-telp{
+    margin-left: 173px;
+    cursor: pointer;
+}
+
+#email{
+    margin-left: 277px;
+    cursor: pointer;
+}
+
+#nama-company{
+    margin-left: 80px;
+    cursor: pointer;
+}
+
+#alamat-company{
+    margin-left: 73px;
+    cursor: pointer;
+}
+
+#nama-cp{
+    margin-left: 49px;
+    cursor: pointer;
+}
+
+#nomor-cp{
+    margin-left: 99px;
+    cursor: pointer;
+}
+
+#email-company{
+    margin-left: 82px;
+    cursor: pointer;
+}
+
+.judul{
+    background-color: #C9BBCF;
+}
+
+h1{
+    margin: 0;
+    padding-top: 12px;
+    padding-bottom: 12px;
+    padding-left: 12px;
+    font-family: Arial;
+    font-size: 24px;
+}
+
+li{
+    display: flex;
+}
+
+.btn{
+    margin-top: 12px;
+    padding-top: 6px;
+    padding-bottom: 6px;
+    padding-left: 380px;
+    padding-right: 380px;
+    border-radius: 25px;
+    border-style: none;
+    font-weight: 700;
+    font-size: 16px;
+    background-color: #D6EFED;
+}
+
+.jeda-1{
+    margin-left: 25px;
+}
+
+.jeda-2{
+    margin-left: 27px;
+}
+
+.jeda-3{
+    margin-left: 140px;
+}
+
+.upload-file{
+    background-color: white;
+    padding-left: 50px;
+    padding-right: 50px;
+    padding-top: 30px;
+    padding-bottom: 30px;
+    margin-left: 12px;
+    border-radius: 12px;
+}
